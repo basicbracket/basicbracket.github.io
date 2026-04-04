@@ -1,0 +1,522 @@
+{
+  "regions": [
+    "South",
+    "East",
+    "Midwest",
+    "West"
+  ],
+  "teams": [
+    {
+      "name": "North Carolina",
+      "seed": 1,
+      "logo": "north-carolina",
+      "region": "East",
+      "wins": 5,
+      "stillPlaying": false
+    },
+    {
+      "name": "Kansas",
+      "seed": 1,
+      "logo": "kansas",
+      "region": "South",
+      "wins": 3,
+      "stillPlaying": false
+    },
+    {
+      "name": "Oregon",
+      "seed": 1,
+      "logo": "oregon",
+      "region": "West",
+      "wins": 3,
+      "stillPlaying": false
+    },
+    {
+      "name": "Virginia",
+      "seed": 1,
+      "logo": "virginia",
+      "region": "Midwest",
+      "wins": 3,
+      "stillPlaying": false
+    },
+    {
+      "name": "Villanova",
+      "seed": 2,
+      "logo": "villanova",
+      "region": "South",
+      "wins": 6,
+      "stillPlaying": false
+    },
+    {
+      "name": "Oklahoma",
+      "seed": 2,
+      "logo": "oklahoma",
+      "region": "West",
+      "wins": 4,
+      "stillPlaying": false
+    },
+    {
+      "name": "Xavier",
+      "seed": 2,
+      "logo": "xavier",
+      "region": "East",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Michigan St.",
+      "seed": 2,
+      "logo": "michigan-st",
+      "region": "Midwest",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Miami (FL)",
+      "seed": 3,
+      "logo": "miami-fl",
+      "region": "South",
+      "wins": 2,
+      "stillPlaying": false
+    },
+    {
+      "name": "Texas A&M",
+      "seed": 3,
+      "logo": "texas-am",
+      "region": "West",
+      "wins": 2,
+      "stillPlaying": false
+    },
+    {
+      "name": "Utah",
+      "seed": 3,
+      "logo": "utah",
+      "region": "Midwest",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "West Virginia",
+      "seed": 3,
+      "logo": "west-virginia",
+      "region": "East",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Duke",
+      "seed": 4,
+      "logo": "duke",
+      "region": "West",
+      "wins": 2,
+      "stillPlaying": false
+    },
+    {
+      "name": "Iowa St.",
+      "seed": 4,
+      "logo": "iowa-st",
+      "region": "Midwest",
+      "wins": 2,
+      "stillPlaying": false
+    },
+    {
+      "name": "Kentucky",
+      "seed": 4,
+      "logo": "kentucky",
+      "region": "East",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "California",
+      "seed": 4,
+      "logo": "california",
+      "region": "South",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Indiana",
+      "seed": 5,
+      "logo": "indiana",
+      "region": "East",
+      "wins": 2,
+      "stillPlaying": false
+    },
+    {
+      "name": "Maryland",
+      "seed": 5,
+      "logo": "maryland",
+      "region": "South",
+      "wins": 2,
+      "stillPlaying": false
+    },
+    {
+      "name": "Baylor",
+      "seed": 5,
+      "logo": "baylor",
+      "region": "West",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Purdue",
+      "seed": 5,
+      "logo": "purdue",
+      "region": "Midwest",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Notre Dame",
+      "seed": 6,
+      "logo": "notre-dame",
+      "region": "East",
+      "wins": 3,
+      "stillPlaying": false
+    },
+    {
+      "name": "Arizona",
+      "seed": 6,
+      "logo": "arizona",
+      "region": "South",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Seton Hall",
+      "seed": 6,
+      "logo": "seton-hall",
+      "region": "Midwest",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Texas",
+      "seed": 6,
+      "logo": "texas",
+      "region": "West",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Wisconsin",
+      "seed": 7,
+      "logo": "wisconsin",
+      "region": "East",
+      "wins": 2,
+      "stillPlaying": false
+    },
+    {
+      "name": "Iowa",
+      "seed": 7,
+      "logo": "iowa",
+      "region": "South",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Dayton",
+      "seed": 7,
+      "logo": "dayton",
+      "region": "Midwest",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Oregon St.",
+      "seed": 7,
+      "logo": "oregon-st",
+      "region": "West",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Saint Joseph's",
+      "seed": 8,
+      "logo": "saint-josephs",
+      "region": "West",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Colorado",
+      "seed": 8,
+      "logo": "colorado",
+      "region": "South",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Texas Tech",
+      "seed": 8,
+      "logo": "texas-tech",
+      "region": "Midwest",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "USC",
+      "seed": 8,
+      "logo": "southern-california",
+      "region": "East",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Butler",
+      "seed": 9,
+      "logo": "butler",
+      "region": "Midwest",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Providence",
+      "seed": 9,
+      "logo": "providence",
+      "region": "East",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "UConn",
+      "seed": 9,
+      "logo": "uconn",
+      "region": "South",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Cincinnati",
+      "seed": 9,
+      "logo": "cincinnati",
+      "region": "West",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Syracuse",
+      "seed": 10,
+      "logo": "syracuse",
+      "region": "Midwest",
+      "wins": 4,
+      "stillPlaying": false
+    },
+    {
+      "name": "VCU",
+      "seed": 10,
+      "logo": "vcu",
+      "region": "West",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Pitt",
+      "seed": 10,
+      "logo": "pittsburgh",
+      "region": "East",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Temple",
+      "seed": 10,
+      "logo": "temple",
+      "region": "South",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Gonzaga",
+      "seed": 11,
+      "logo": "gonzaga",
+      "region": "Midwest",
+      "wins": 2,
+      "stillPlaying": false
+    },
+    {
+      "name": "Northern Iowa",
+      "seed": 11,
+      "logo": "uni",
+      "region": "West",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Wichita St.",
+      "seed": 11,
+      "logo": "wichita-st",
+      "region": "South",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Michigan",
+      "seed": 11,
+      "logo": "michigan",
+      "region": "East",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Little Rock",
+      "seed": 12,
+      "logo": "ualr",
+      "region": "Midwest",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Yale",
+      "seed": 12,
+      "logo": "yale",
+      "region": "West",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Chattanooga",
+      "seed": 12,
+      "logo": "chattanooga",
+      "region": "East",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "South Dakota St.",
+      "seed": 12,
+      "logo": "south-dakota-st",
+      "region": "South",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Hawaii",
+      "seed": 13,
+      "logo": "hawaii",
+      "region": "South",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Iona",
+      "seed": 13,
+      "logo": "iona",
+      "region": "Midwest",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Stony Brook",
+      "seed": 13,
+      "logo": "stony-brook",
+      "region": "East",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "UNC Wilmington",
+      "seed": 13,
+      "logo": "unc-wilmington",
+      "region": "West",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Stephen F. Austin",
+      "seed": 14,
+      "logo": "stephen-f-austin",
+      "region": "East",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "Buffalo",
+      "seed": 14,
+      "logo": "buffalo",
+      "region": "South",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Fresno St.",
+      "seed": 14,
+      "logo": "fresno-st",
+      "region": "Midwest",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Green Bay",
+      "seed": 14,
+      "logo": "green-bay",
+      "region": "West",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Middle Tenn.",
+      "seed": 15,
+      "logo": "middle-tenn",
+      "region": "Midwest",
+      "wins": 1,
+      "stillPlaying": false
+    },
+    {
+      "name": "CSU Bakersfield",
+      "seed": 15,
+      "logo": "bakersfield",
+      "region": "West",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "UNC Asheville",
+      "seed": 15,
+      "logo": "unc-asheville",
+      "region": "South",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Weber St.",
+      "seed": 15,
+      "logo": "weber-st",
+      "region": "East",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Austin Peay",
+      "seed": 16,
+      "logo": "austin-peay",
+      "region": "South",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Fla. Gulf Coast",
+      "seed": 16,
+      "logo": "fgcu",
+      "region": "East",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Hampton",
+      "seed": 16,
+      "logo": "hampton",
+      "region": "Midwest",
+      "wins": 0,
+      "stillPlaying": false
+    },
+    {
+      "name": "Holy Cross",
+      "seed": 16,
+      "logo": "holy-cross",
+      "region": "West",
+      "wins": 0,
+      "stillPlaying": false
+    }
+  ]
+}
