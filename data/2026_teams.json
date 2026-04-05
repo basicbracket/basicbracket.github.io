@@ -12,14 +12,14 @@
       "logo": "arizona",
       "region": "West",
       "wins": 4,
-      "stillPlaying": true
+      "stillPlaying": false
     },
     {
       "name": "Michigan",
       "seed": 1,
       "logo": "michigan",
       "region": "Midwest",
-      "wins": 4,
+      "wins": 5,
       "stillPlaying": true
     },
     {
@@ -43,7 +43,7 @@
       "seed": 2,
       "logo": "uconn",
       "region": "East",
-      "wins": 4,
+      "wins": 5,
       "stillPlaying": true
     },
     {
@@ -76,7 +76,7 @@
       "logo": "illinois",
       "region": "South",
       "wins": 4,
-      "stillPlaying": true
+      "stillPlaying": false
     },
     {
       "name": "Michigan St.",
