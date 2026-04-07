@@ -19,8 +19,8 @@
       "seed": 1,
       "logo": "michigan",
       "region": "Midwest",
-      "wins": 5,
-      "stillPlaying": true
+      "wins": 6,
+      "stillPlaying": false
     },
     {
       "name": "Duke",
@@ -44,7 +44,7 @@
       "logo": "uconn",
       "region": "East",
       "wins": 5,
-      "stillPlaying": true
+      "stillPlaying": false
     },
     {
       "name": "Purdue",
